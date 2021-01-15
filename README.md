@@ -1,10 +1,10 @@
-# Pre-work - *TipCalculator*
+# Pre-work - *PreWork*
 
-**TipCalculator** is a tip calculator application for iOS.
+**PreWorkr** is a tip calculator application for iOS.
 
 Submitted by: **Ushna Arshid**
 
-Time spent: **4** hours spent in total
+Time spent: **10 to 12** hours spent in total
 
 ## User Stories
 
@@ -26,17 +26,13 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+![](https://i.imgur.com/6BYn5Km.gif)
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
-I was having a hard time uploading to git otherwise everything else was okay.
+I was having a hard time with the app graphics and uploading to git.
 
 ## License
 
